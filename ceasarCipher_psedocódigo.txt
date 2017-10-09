@@ -1,0 +1,17 @@
+Proceso ceasarCipher
+	Escribir Introduzca frase a cifrar;
+	Mientras frase = '' Hacer
+	FinMientras
+	Leer HOLA COMO ESTAS;
+	inquiry <- HOLA COMO ESTAS;
+	emptyString <- '';
+	recorriendo inquiry;
+	Si si posicion en inquiry<- ' ' Entonces
+		emptyString = formula de ceasarCipher;
+	SiNo
+		emptyString+=' ';
+	FinSi
+	emptyString <- stringCifrada;
+	stringCifrada;
+FinProceso
+
