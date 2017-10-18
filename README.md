@@ -32,6 +32,6 @@
 
 
 
-![flowchart](ceasarCipher_diagramaDeFlujo.JPG)
+![flowchart](ceasarCipher_diagramaDeFlujo.jpg)
 
 
