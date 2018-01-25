@@ -30,7 +30,8 @@
 >####	Retornamos la frase ya cifrada contenida en emptyString
 >####    Devolvemos mediante un alert "Tu frase cifrada es" + emptyString
 
-#### **Inmediatamente creamos la funcion decipher**
+>#### **Inmediatamente creamos la funcion decipher**
+
 >#### Proceso ceasarDecipher
 >####    Declaramos un string vacio;
 >####    str2=" ";
@@ -43,6 +44,6 @@
 
 >FLOWCHART
 
-![Sin titulo](assets/docs/ceasarCipher_diagramaDeFlujo2.JPG)
+![Sin titulo](assets/docs/flow-chart.JPG)
 
 
